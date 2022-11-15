@@ -1,0 +1,13 @@
+.carrosel__titulo {
+    text-align: center;
+    color: var(--laranja);
+    background-color: var(--branco);
+    padding: 1em 0 0.5em 0;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.swiper-slide img {
+    width: 100%;
+}
+
