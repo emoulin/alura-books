@@ -15,5 +15,4 @@ Este projeto foi uma tarefa do curso de Front-End da Alura, consiste na criaçã
 * Formulários
 
 ## Caso tenha interesse em ver o projeto no ar, acesse:
-
 https://alura-books-ten-gamma.vercel.app/
